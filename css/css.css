@@ -1,0 +1,17 @@
+
+body {
+    margin: 0px;
+}
+.urna {
+    background-color: #c2aba0;
+    padding: 30px;
+    display: flex;
+}
+.teclado {
+    background-color: #8a9247;
+}
+.tela {
+    width: 450px;
+    height: 320px;
+    background-color: #fcf8e9;
+}
